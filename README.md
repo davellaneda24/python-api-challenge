@@ -24,4 +24,4 @@ The main objective is to limit the dataframe down to about 20 rows
 
 Finally we create a new DataFrame called hotel_df to store the city, country, coordinates, and humidity.
 
-For each city, we use the Geoapify API to find the first hotel located within 10,000 metres of your coordinates and add the hotel name and the country as additional information in the hover message for each city in the map as in the following image:
+For each city, we use the Geoapify API to find the first hotel located within 10,000 metres of your coordinates and add the hotel name and the country as additional information in the hover message for each city in the map.
